@@ -21,7 +21,7 @@ EdgeBlending resources created with Quartz Composer for use with 2 or 3 screens 
 
 ![Adding the compositions to VDMXs library][2]
 
-   [2]: http://media.screensteps.me/tobystereo/l7f7wp/adding-the-compositions-to-vdmxs-library.png?1397759434
+   [2]: images/2.png
 
 ## Setting up edge blending in VDMX
 
@@ -32,7 +32,7 @@ EdgeBlending resources created with Quartz Composer for use with 2 or 3 screens 
 
 ![Setting up edge blending in VDMX][3]
 
-   [3]: http://media.screensteps.me/tobystereo/l7f7wp/setting-up-edge-blending-in-vdmx.png?1397759435
+   [3]: images/3.png
 
 ## In use
 
@@ -40,24 +40,14 @@ EdgeBlending resources created with Quartz Composer for use with 2 or 3 screens 
 
 VDMX output window with pixelblend at 100:
 
-[![In use][4]][5]
+[![In use][4]]
 
-   [4]: http://media.screensteps.me/tobystereo/l7f7wp/in-use.png?1397759437
-   [5]: http://media.screensteps.me/tobystereo/l7f7wp/in-use.png?1397759437 (In use)
-
-[Zoom][6]
-
-   [6]: http://media.screensteps.me/tobystereo/l7f7wp/in-use.png?1397759437 (In use)
+   [4]: images/4.png
 
 ## Window
 
 VDMX output window with pixelblend at 0:
 
-[![Window][7]][8]
+[![Window][5]]
 
-   [7]: http://media.screensteps.me/tobystereo/l7f7wp/window.png?1397759439
-   [8]: http://media.screensteps.me/tobystereo/l7f7wp/window.png?1397759439 (Window)
-
-[Zoom][9]
-
-   [9]: http://media.screensteps.me/tobystereo/l7f7wp/window.png?1397759439 (Window)
+   [5]: images/5.png
