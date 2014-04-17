@@ -58,6 +58,4 @@ VDMX output window with pixelblend at 0:
 
 VDMX output window with pixelblend at 100:
 
-![pixelblend at 100][5]
-
-   [5]: images/4.png
+![pixelblend at 100](images/4.png)
