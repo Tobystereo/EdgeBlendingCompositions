@@ -7,7 +7,7 @@ EdgeBlending resources created with Quartz Composer for use with 2 or 3 screens 
 
 VidVox forum user **[bAjA](http://www.vidvox.net/forums/memberlist.php?mode=viewprofile&u=832)** created a quartz patch for edge blending, you can [find the original source link here](http://www.vidvox.net/forums/viewtopic.php?t=5863)
 
-His file is included here unaltered for your convenience:
+The file is included here unaltered for your convenience:
 
 [Three Screens Edge Blending by bAjA] (edgeBlend-three-screens.qtz)
 
