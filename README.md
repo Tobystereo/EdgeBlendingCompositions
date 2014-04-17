@@ -52,7 +52,7 @@ I adjusted it for two screens:
 
 VDMX output window with pixelblend at 0:
 
-![pixelblend at 0][4]
+![pixelblend at zero][4]
 
 	[4]: images/5.png
 
