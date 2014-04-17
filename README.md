@@ -3,6 +3,18 @@ EdgeBlendingCompositions
 
 EdgeBlending resources created with Quartz Composer for use with 2 or 3 screens in VDMX5
 
+# The Files
+
+VidVox forum user bAjA created a quartz patch for edge blending, you can [find the original source link here](http://www.vidvox.net/forums/viewtopic.php?t=5863)
+
+His file is included here unaltered for your convenience:
+
+[Three Screens Edge Blending] (edgeBlend-three-screens.qtz)
+
+I adjusted it for two screens:
+
+[Two Screens Edge Blending] (edgeBlend-two-screens.qtz)
+
 # Simple VDMX5 edge blending tutorial
 
 ## VDMX Preferences
