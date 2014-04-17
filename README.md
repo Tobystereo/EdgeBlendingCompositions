@@ -50,16 +50,15 @@ I adjusted it for two screens:
 
   * Use the "pixelblend" slider to adjust the amount of blending and adjust to match your overlapping projectors
 
-VDMX output window with pixelblend at 100:
-
-[![In use][4]]
-
-   [4]: images/4.png
-
-## Window
-
 VDMX output window with pixelblend at 0:
 
-[![Window][5]]
+![Window][5]
 
-   [5]: images/5.png
+	[5]: images/5.png
+
+
+VDMX output window with pixelblend at 100:
+
+![In use][4]
+
+   [4]: images/4.png
